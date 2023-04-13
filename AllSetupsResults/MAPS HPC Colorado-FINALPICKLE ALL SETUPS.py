@@ -49,6 +49,12 @@ data = pd.read_pickle(datafile)
 data.keys()
 
 
+# In[6]:
+
+
+data
+
+
 # In[8]:
 
 
