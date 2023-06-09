@@ -5,6 +5,7 @@
 
 # temp folder
 TEMP
+HPCFiles
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
